@@ -4,7 +4,7 @@ Hi!
 
 My name is Kamil and I am a second year data science student with a passion for finding insights from data. I have experience in using Python to perform web scraping, data cleaning, manipulation and visualization. I am looking for my first commercial experience where I can apply and expand my data analysis skills in a real-world context.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kamil/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kamilneumann/)
 [![Datacamp](https://img.shields.io/badge/-Datacamp-black?style=flat-square&logo=datacamp)](https://app.datacamp.com/profile/kneumann)
 
 
