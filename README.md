@@ -23,5 +23,6 @@ My name is Kamil and I am a third year data science student with a passion for f
 
 ## Projects
 
+- [Cyberpunk2077 Steam Reviews NLP Analysis](https://github.com/Kamiltonn/Cyberpunk2077SteamReviewsNLP) - Analysis centered on evaluating how the public's opinion of Cyberpunk 2077 has changed over time and attempting to determine which aspects of the game generated the most debate and were favored most by players.
 - [Aniprofile Comparator](https://github.com/Kamiltonn/Aniprofile-comparator) - Python Flask project that uses the Anilist API (GraphQL) to fetch user's anime statistics and retrieve meaningful insights from the data using pandas. This project allows you to quickly compare statistics in a user friendly manner by providing side by side comparisons using charts and tables.
 - [AI Startup Hackathon: Inclusive Solutions](https://lablab.ai/event/ai-startup-hackathon/inclusive-solutions) - During LabLab ai’s startup hackathon, I developed a backend for FocusX demo - a chatbot tool designed to assist users in their learning journey. The demo included an API endpoint that retrieved relevant information from a Pinecone vector database, based on the user's query. This information, along with the user's query, was then sent to GPT-3 to generate an appropriate response.
