@@ -1,8 +1,6 @@
 ## About me 
 
-Hi!
-
-My name is Kamil and I am a third year data science student with a passion for finding insights from data. I have experience in using Python to perform web scraping, data cleaning, manipulation and visualization. I am looking for my first commercial experience where I can apply and expand my data analysis skills in a real-world context.
+Yo, my name is Kamil and i've used to build stuff, too busy to buiild crap nowadays, but feel free to look at my portfolio as it got me a job in the industry
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kamilneumann/)
 [![Datacamp](https://img.shields.io/badge/-Datacamp-black?style=flat-square&logo=datacamp)](https://app.datacamp.com/profile/kneumann)
